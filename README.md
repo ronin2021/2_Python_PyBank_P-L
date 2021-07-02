@@ -1,4 +1,4 @@
-# Python - Homework - PyBank
+# Python - PyBank - Profit & Loss
 
 ## Outline
 Consider all data files and the main.ipynb file that has the code for the script is in the PyBank folder.
